@@ -69,11 +69,3 @@ Sigue estos pasos para instalar las dependencias:
     ```
 
 La aplicación estará disponible en `http://127.0.0.1:8000` por defecto.
-
-## Contribución
-
-Si deseas contribuir al proyecto, por favor abre un *pull request* con tus cambios. Asegúrate de que todas las pruebas pasen antes de enviarlo.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT.
